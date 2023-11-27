@@ -67,7 +67,7 @@ function swiper_latest_posts_settings_page() {
         <div style="max-width: 800px;">
             <!-- Replace the placeholder below with your actual video iframe code -->
             <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-                <iframe src="https://www.youtube.com/embed/your-video-id" style="position: absolute; width: 100%; height: 100%;" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/6aYvQnGjfjI?si=1jGXLCyVGqJBShHv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
     </div>
